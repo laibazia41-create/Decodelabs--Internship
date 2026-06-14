@@ -7,6 +7,7 @@ Welcome to my repository showcasing the frontend development projects completed 
 - [🛒 SPICECO – Project 1: Semantic HTML Layout](https://github.com/laibazia41-create/Decodelabs-Project1-SPICECO-HTML)
 - [📱 SPICECO – Project 2: Responsive Mobile-First Overhaul](https://github.com/laibazia41-create/Decodelabs-Project2-SPICECO-Responsive)
 - [⚡ SPICECO – Project 3: Dynamic JavaScript Interactivity](https://github.com/laibazia41-create/Decodelabs-Project3-SPICECO-JavaScript)
+
 🎯 Internship Learnings & Key TakeawaysThrough my sprints at Decodlabs, I have significantly advanced my engineering capabilities:  Code Architecture: Moving away from monolithic files toward highly organized sub-folders and clean semantic structures.  Version Control Mastery: Committing clean, isolated code updates and managing professional repository structures on GitHub.  The Design-to-Code Pipeline: Ensuring pixel-perfect accuracy when translating UI design assets into live, functional code blocks.
 📫 Let's Connect!Email: laibazia41@gmail.com
 LinkedIn: www.linkedin.com/in/laiba-zia-7836263b3
